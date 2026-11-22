@@ -5,30 +5,46 @@
        height="180" />
 </p>
 
-<h1 align="center">Hi there, I'm Steven Ace F. Alcantara! 👋</h1>
+<h1 align="center">Hi there, I'm Steven Ace F. Alcantara</h1> 
 
 <h3 align="center">
-  💻 Aspiring IT Professional | Programmer | Database Enthusiast
+˗ˏˋ Aspiring IT Professional | Programmer | Database Enthusiast ´ˎ˗
 </h3>
 
-## 👨‍💻 About Me
+## ˗ˏˋ About Me ´ˎ˗
 
 I am **Steven Ace F. Alcantara**, an aspiring IT professional with a flair for coding and database management. I thrive on tackling complex problems, exploring new technologies, and crafting elegant solutions. My journey in technology began when I pursued the **Bachelor of Science in Information Technology (BSIT)** program.
 
-## 🎓 Education
+## ✎ Education
 
 **Bachelor of Science in Information Technology**  
 New Era University  
+Quezon City, Philippines  
 2025 – Present
 
-## 📜 Certifications
+**Grade 4-12**  
+New Era University  
+Quezon City, Philippines  
+2016-2025
+
+**Grade 2-3**  
+Sk Sri Elementary school  
+Subang Jaya, Malaysia  
+2014-2015
+
+**Grade 1**  
+Kabayanan Elementary School  
+San Juan, Philippines  
+2012
+
+## ♯ Certifications
 
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C3DFCFBF9D28975A79863BF086026A81892712865EE814686A6463D4F3276F80)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4037B750BE446722B4E192956AAD04F7C82367A64A8CF77B18DA3CC888C76945)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8140192BF6183FE8EBE97E760E9AB637C43E562D380632B48C549CB8698F0311)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/692ee75c8a3f4fb193bb43f000effb35)
 
-## 🛠️ Skills & Technologies
+## ⋆ Skills & Technologies
 
 **Programming Languages**
 <p>
@@ -50,7 +66,7 @@ New Era University
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-## 📫 Connect With Me
+## Connect With Me ➛
 
 <p>
   <a href="https://www.linkedin.com/in/steven-ace-alcantara-90ba84431/">
@@ -62,5 +78,4 @@ New Era University
 </p>
 
 ---
-
-⭐ *Always learning, always building, and always looking for opportunities to grow in the world of technology.*
+✦ *Always learning, always building, and always looking for opportunities to grow in the world of technology.* ✦
