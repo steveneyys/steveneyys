@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="./assets/pfpic.jpg" alt="Steven Ace F. Alcantara" width="180" style="border-radius: 50%;" />
+</p>
+
 # Hi there, I'm Steven Ace F. Alcantara!
 
 ### 💻 Aspiring IT Professional | Programmer | Database Enthusiast
