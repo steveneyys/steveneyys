@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="./assets/pfpic.jpg" alt="Steven Ace F. Alcantara" width="180" style="border-radius: 50%;" />
+  <img src="./assets/pfpicture.jpg" alt="Steven Ace F. Alcantara" width="180" style="border-radius: 50%;" />
 </p>
 
 # Hi there, I'm Steven Ace F. Alcantara!
